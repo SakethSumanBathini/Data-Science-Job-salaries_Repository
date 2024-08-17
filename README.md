@@ -14,7 +14,8 @@ The primary objective of this project is to analyze and visualize the **Data Sci
 
 ### Dashboard Overview
 
-![Dashboard Overview](https://github.com/your-username/your-repo-name/blob/main/images/Dashboard%20Data%20Science%20job%20salaries.png)
+![Dashboard Data Science job salaries](https://github.com/user-attachments/assets/049372ef-47fb-4351-bda4-6a44986017f0)
+
 
 ### 1. Donut Charts: Company Size and Location
 
