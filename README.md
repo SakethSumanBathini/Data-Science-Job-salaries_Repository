@@ -14,7 +14,7 @@ The primary objective of this project is to analyze and visualize the **Data Sci
 
 ### 1. Donut Charts: Company Size and Location
 
-![Donut Chart by Company Size and Location](./images/Pie%20chart%20by%20Total%20companies%20by%20size%20and%20location.png)
+![Donut chart by Company Size and Location](https://github.com/user-attachments/assets/8ca9451e-7b6c-4d59-a7d8-cbb8abd22f18)
 
 - **Purpose**: To visualize the distribution of companies by size (Small, Medium, Large) and their geographical location.
 - **Insight**: The majority of companies hiring Data Science professionals are medium-sized, followed by large companies. This indicates that medium and large enterprises are more likely to invest in Data Science talent.
