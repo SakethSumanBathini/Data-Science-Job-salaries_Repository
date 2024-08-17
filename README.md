@@ -21,10 +21,11 @@ The primary objective of this project is to analyze and visualize the **Data Sci
 
 ### 2. Donut Chart: Employment Type
 
-![Donut Chart of Employment Type](./images/Pie%20chart%20of%20Employement%20Type.png)
+!![Donut Chart of Employement Type](https://github.com/user-attachments/assets/ef7fdd42-84d2-4d0f-8e29-d6c420f43225)
 
 - **Purpose**: To display the employment types (Full-time, Part-time, Freelance, Contract) within the Data Science field.
-- **Insight**: Full-time positions dominate the Data Science job market, suggesting a preference for long-term roles over short-term or freelance contracts.
+- **Insight*![Uploading Donut Chart of Employement Type.png…]()
+*: Full-time positions dominate the Data Science job market, suggesting a preference for long-term roles over short-term or freelance contracts.
 
 ### 3. Bar Chart: Top 10 Employee Residences
 
