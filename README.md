@@ -21,7 +21,7 @@ The primary objective of this project is to analyze and visualize the **Data Sci
 
 ### 2. Donut Chart: Employment Type
 
-!![Donut Chart of Employement Type](https://github.com/user-attachments/assets/ef7fdd42-84d2-4d0f-8e29-d6c420f43225)
+![Donut Chart of Employement Type](https://github.com/user-attachments/assets/ef7fdd42-84d2-4d0f-8e29-d6c420f43225)
 
 - **Purpose**: To display the employment types (Full-time, Part-time, Freelance, Contract) within the Data Science field.
 - **Insight*![Uploading Donut Chart of Employement Type.png…]()
@@ -29,7 +29,7 @@ The primary objective of this project is to analyze and visualize the **Data Sci
 
 ### 3. Bar Chart: Top 10 Employee Residences
 
-![Bar Chart for Top 10 Employee Residence](./images/Bar%20graph%20for%20Top%2010%20Employee%20Residence.png)
+![Bar graph for Top 10 Employee Residence](https://github.com/user-attachments/assets/84ed7377-527d-4fab-a0be-20d48e1ba19a)
 
 - **Purpose**: To identify the top 10 countries where Data Science professionals reside.
 - **Insight**: The United States leads significantly in the number of Data Science professionals, followed by the United Kingdom and India. This reflects the strong presence of Data Science roles in these regions.
