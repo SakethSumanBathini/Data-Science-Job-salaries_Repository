@@ -12,6 +12,10 @@ The primary objective of this project is to analyze and visualize the **Data Sci
 
 ## 🔍 Key Visualizations
 
+### Dashboard Overview
+
+![Dashboard Overview](https://github.com/your-username/your-repo-name/blob/main/images/Dashboard%20Data%20Science%20job%20salaries.png)
+
 ### 1. Donut Charts: Company Size and Location
 
 ![Donut chart by Company Size and Location](https://github.com/user-attachments/assets/8ca9451e-7b6c-4d59-a7d8-cbb8abd22f18)
@@ -36,21 +40,23 @@ The primary objective of this project is to analyze and visualize the **Data Sci
 
 ### 4. Table: Average Salary by Job Title and Experience Level
 
-![Table for Average Salary by Job Title and Experience Level](./images/Table%20chart%20for%20Avg%20salary%20by%20job%20title%20and%20experience%20level.png)
+![Table chart for Avg salary by job title and experience level](https://github.com/user-attachments/assets/bf77bfe8-a0ef-48e0-a419-e44be4adf6ad)
 
 - **Purpose**: To showcase the average salary distribution across various job titles and experience levels.
 - **Insight**: Senior and expert-level positions, such as AI Scientists and Big Data Engineers, command the highest salaries. This highlights the importance of experience and specialization in achieving higher compensation.
 
 ### 5. Map Visualization: Average Salary by Country
 
-![Map for Average Salary by Country](./images/Map%20graph%20for%20Average%20salary%20by%20country.png)
+![Map graph for Average salary by country](https://github.com/user-attachments/assets/71835af7-33b1-456c-a7a3-d58eba2817bb)
+
 
 - **Purpose**: To provide a global view of how salaries vary by country.
 - **Insight**: Countries like the United States, Switzerland, and Australia offer the highest salaries for Data Science professionals, indicating the high demand and value of Data Science expertise in these regions.
 
 ### 6. Scatter Plot: Average Salary by Experience Level and Employment Type
 
-![Dot Chart by Average Salary in USD by Experience Level and Employment Type](./images/Dot%20chart%20by%20Avg%20Salary%20in%20usd%20by%20Experience%20level%20and%20Employement%20type.png)
+![Dot chart by Avg Salary in usd by Experience level and Employement type](https://github.com/user-attachments/assets/402c1e32-cb24-4318-99b8-212df5cd0266)
+
 
 - **Purpose**: To explore the relationship between experience level, employment type, and salary.
 - **Insight**: Senior-level professionals, especially in full-time roles, earn significantly more than their entry-level or contract counterparts. This underscores the value of experience and stable employment in achieving higher earnings.
@@ -79,7 +85,8 @@ This dashboard is designed to be beneficial for several stakeholders:
 
 ## 🗺️ Data Source
 
-![Data Source Connection](./images/Data%20Source.png)
+![Data Source](https://github.com/user-attachments/assets/13d1b7b1-a9f5-4ed6-b8d4-d03cf009a634)
+
 
 The data source used for this project is the Kaggle `ds_salaries.csv` file, which contains comprehensive information on job titles, salaries, experience levels, employment types, and geographic locations.
 
