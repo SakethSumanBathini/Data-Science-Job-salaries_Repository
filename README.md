@@ -1,8 +1,10 @@
 
 
-Welcome to the **Data Science Job Salaries Analysis** project! This project showcases my ability to leverage Tableau for creating an interactive and insightful dashboard that provides a deep dive into the salary trends of Data Science professionals across various regions, job titles, experience levels, and employment types.
+# **Data Science Job Salaries Analysis Project**
 
 ## **1. Overview**
+
+Welcome to the **Data Science Job Salaries Analysis** project! This project showcases my ability to leverage Tableau for creating an interactive and insightful dashboard that provides a deep dive into the salary trends of Data Science professionals across various regions, job titles, experience levels, and employment types.
 
 The primary objective of this project is to analyze and visualize the **Data Science job salaries** across different dimensions to uncover trends, disparities, and benchmarks. This dashboard is designed to assist HR professionals, recruiters, and Data Science enthusiasts in making informed decisions regarding salary expectations and offerings.
 
@@ -18,38 +20,32 @@ The Data Science Job Salaries Analysis Dashboard utilizes several types of visua
 ### **Types of Visualizations**:
 
 - **Donut Charts: Company Size and Location**:
-  - **Purpose**: To visualize the distribution of companies by size (Small, Medium, Large) and their geographical location.
-  - **Insights**: The majority of companies hiring Data Science professionals are medium-sized, followed by large companies. This indicates that medium and large enterprises are more likely to invest in Data Science talent.
+  - This visualization illustrates the distribution of companies by size (Small, Medium, Large) and their geographical location. The insights derived indicate that the majority of companies hiring Data Science professionals are medium-sized, followed by large companies, suggesting that medium and large enterprises are more likely to invest in Data Science talent.
 
   ![Donut chart by Company Size and Location](https://github.com/user-attachments/assets/8ca9451e-7b6c-4d59-a7d8-cbb8abd22f18)
 
 - **Donut Chart: Employment Type**:
-  - **Purpose**: To display the employment types (Full-time, Part-time, Freelance, Contract) within the Data Science field.
-  - **Insights**: Full-time positions dominate the Data Science job market, suggesting a preference for long-term roles over short-term or freelance contracts.
+  - This chart displays the distribution of employment types (Full-time, Part-time, Freelance, Contract) within the Data Science field. The visualization shows that full-time positions dominate the Data Science job market, indicating a preference for long-term roles over short-term or freelance contracts.
 
   ![Donut Chart of Employment Type](https://github.com/user-attachments/assets/ef7fdd42-84d2-4d0f-8e29-d6c420f43225)
 
 - **Bar Chart: Top 10 Employee Residences**:
-  - **Purpose**: To identify the top 10 countries where Data Science professionals reside.
-  - **Insights**: The United States leads significantly in the number of Data Science professionals, followed by the United Kingdom and India. This reflects the strong presence of Data Science roles in these regions.
+  - This bar chart identifies the top 10 countries where Data Science professionals reside. The insights reveal that the United States leads significantly in the number of Data Science professionals, followed by the United Kingdom and India, reflecting the strong presence of Data Science roles in these regions.
 
   ![Bar graph for Top 10 Employee Residence](https://github.com/user-attachments/assets/84ed7377-527d-4fab-a0be-20d48e1ba19a)
 
 - **Table: Average Salary by Job Title and Experience Level**:
-  - **Purpose**: To showcase the average salary distribution across various job titles and experience levels.
-  - **Insights**: Senior and expert-level positions, such as AI Scientists and Big Data Engineers, command the highest salaries. This highlights the importance of experience and specialization in achieving higher compensation.
+  - This table showcases the average salary distribution across various job titles and experience levels. The analysis highlights that senior and expert-level positions, such as AI Scientists and Big Data Engineers, command the highest salaries, emphasizing the importance of experience and specialization in achieving higher compensation.
 
   ![Table chart for Avg salary by job title and experience level](https://github.com/user-attachments/assets/bf77bfe8-a0ef-48e0-a419-e44be4adf6ad)
 
 - **Map Visualization: Average Salary by Country**:
-  - **Purpose**: To provide a global view of how salaries vary by country.
-  - **Insights**: Countries like the United States, Switzerland, and Australia offer the highest salaries for Data Science professionals, indicating the high demand and value of Data Science expertise in these regions.
+  - This map provides a global view of how salaries vary by country. The insights indicate that countries like the United States, Switzerland, and Australia offer the highest salaries for Data Science professionals, underscoring the high demand and value of Data Science expertise in these regions.
 
   ![Map graph for Average salary by country](https://github.com/user-attachments/assets/71835af7-33b1-456c-a7a3-d58eba2817bb)
 
 - **Scatter Plot: Average Salary by Experience Level and Employment Type**:
-  - **Purpose**: To explore the relationship between experience level, employment type, and salary.
-  - **Insights**: Senior-level professionals, especially in full-time roles, earn significantly more than their entry-level or contract counterparts. This underscores the value of experience and stable employment in achieving higher earnings.
+  - This scatter plot explores the relationship between experience level, employment type, and salary. The visualization reveals that senior-level professionals, especially in full-time roles, earn significantly more than their entry-level or contract counterparts, highlighting the value of experience and stable employment in achieving higher earnings.
 
   ![Dot chart by Avg Salary in USD by Experience level and Employment type](https://github.com/user-attachments/assets/402c1e32-cb24-4318-99b8-212df5cd0266)
 
@@ -80,6 +76,7 @@ The Data Science Job Salaries Analysis Dashboard project has achieved several si
 ## **5. Data Set**
 
 The dataset used in this project is essential for analyzing salary trends in the Data Science field. It includes data on job titles, salaries, experience levels, employment types, and geographic locations, providing a comprehensive view of the market.
+
 ![Data Source](https://github.com/user-attachments/assets/007256eb-0dc5-43f0-8d3a-a3e04cd38d76)
 
 ### **Data Characteristics**:
